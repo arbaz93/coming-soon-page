@@ -47,7 +47,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://github.com/arbaz93/coming-soon-page/blob/main/LICENSE).
 
 ## Acknowlegment
 
